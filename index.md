@@ -1,6 +1,9 @@
 # 开源机器人项目 HANDS FREE
 ---
 
+#### 2017官方视频    
+<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=w0389v55en2&tiny=0&auto=0" allowfullscreen></iframe>
+
 ## 简介
 ---
 #### [HandsFree Overview](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/1.-%E6%A6%82%E8%BF%B0)
@@ -13,7 +16,7 @@ HANDS FREE 是一个面向机器人研究、开发的开源软硬件系统。她
 ## 资源索引
 ---
 * HandsFree [2017官方视频](https://v.qq.com/iframe/player.html?vid=w0389v55en2&tiny=0&auto=0)
-* HandsFree 交流群: 521037187 (Hands Free Community)     
+* HandsFree 交流群: 521037187 (Hands Free Community)		
 * 最新最全资料请看: [HandsFree百度云](https://pan.baidu.com/s/1nuSvs7Z#list)   
 * 最新代码请看: [HandsFree Github](https://github.com/HANDS-FREE)   
 * 需要购买或者查看平台请看[淘宝店铺](https://shop145029875.taobao.com/?spm=a1z10.3-c.0.0.zpwB3d)

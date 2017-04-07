@@ -1,6 +1,5 @@
 # 开源机器人项目 HANDS FREE
 ---
-<iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=w0389v55en2&tiny=0&auto=0" allowfullscreen></iframe>
 
 ## 简介
 ---

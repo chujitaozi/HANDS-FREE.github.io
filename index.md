@@ -6,12 +6,11 @@
 
 ## 简介
 ---
-#### [HandsFree Overview](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/1.-%E6%A6%82%E8%BF%B0)
+#### [HandsFree Overview](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/1.1-Quick-Overview)
 
 ![Hands Free 开源机器人项目](/images/HandsFree/HandsFree_Project.jpg)
 
 HANDS FREE 是一个面向机器人研究、开发的开源软硬件系统。她有完备与科学的框架,以优秀的嵌入式系统框架为核心,精良的电路、机械设计为支撑,帮您快速实现多种形态的机器人。本系统包含机器人导航,SLAM,计算机视觉等模块,并拥有自己上层软件和调试系统。她支持国外其他的开源项目,如 ROS, MPRT, PIXHAWK 等,这一切都为您带来了无比的便捷和快乐!
-
 
 ## 资源索引
 ---
@@ -20,11 +19,11 @@ HANDS FREE 是一个面向机器人研究、开发的开源软硬件系统。她
 * 最新最全资料请看: [HandsFree百度云](https://pan.baidu.com/s/1nuSvs7Z#list)   
 * 最新代码请看: [HandsFree Github](https://github.com/HANDS-FREE)   
 * 需要购买或者查看平台请看[淘宝店铺](https://shop145029875.taobao.com/?spm=a1z10.3-c.0.0.zpwB3d)
-* 关于购买的机器的入门教程，或者想系统学习HandsFree可以看[网页版教程](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki)，也可以看[Hands_Free_Robot_User_Manual.pdf](https://pan.baidu.com/s/1nuSvs7Z#list/path=%2FHANDSFREE%2FHands_Free_Release%2F0_Documentation%2Fdocumentation&parentPath=%2FHANDSFREE)，
+* 关于购买的机器的入门教程，或者想系统学习HandsFree可以看[网页版教程](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki)
 * OpenRE的教程 [OpenRE wiki](https://github.com/HANDS-FREE/OpenRE/wiki)
-  
+
 ### 其他:  
-- 通过 [HandsFree_Introduction.pptx](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/1.-%E6%A6%82%E8%BF%B0)  全面了解HandsFree的工作。
+- 通过 [Quick Overview](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/1.1-Quick-Overview)全面了解HandsFree的工作。
 - [RosClub](http://www.rosclub.cn/post-14.html)   
 - [西北工业大学布树辉教授个人博客](http://www.adv-ci.com/blog/source/hands-free/)    
 - [exbot](http://wiki.exbot.net/HandsFree)

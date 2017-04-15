@@ -20,7 +20,7 @@ HANDS FREE 是一个面向机器人研究、开发的开源软硬件系统。她
 * 最新代码请看: [HandsFree Github](https://github.com/HANDS-FREE)   
 * 需要购买或者查看平台请看[淘宝店铺](https://shop145029875.taobao.com/?spm=a1z10.3-c.0.0.zpwB3d)    
 * 关于购买的机器的入门教程，或者想系统学习HandsFree可以看[网页版教程](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki)    
-* OpenRE的教程 [OpenRE wiki](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/7.-OpenRE-Tutorial)    
+* OpenRE的教程 [OpenRE wiki](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/6.-OpenRE-Tutorial)    
 
 ## 其他资源
 * 通过 [Quick Overview](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/1.1-Quick-Overview)全面了解HandsFree的工作。    
@@ -34,7 +34,7 @@ HANDS FREE 是一个面向机器人研究、开发的开源软硬件系统。她
 
 ### 一 OpenRE 库
 全称 Open Source Robot Embedded Library，也就是机器人嵌入式库。简单的说，其作用与国外知名的无人机开发架构 pixhawk 类似，只不过 pixhwak 主要是面向飞行器，而 OpenRE 则是面向多模态机器人的。
- - 详细内容可以参考[OpenRE源码](https://github.com/HANDS-FREE/OpenRE)和[OpenRE wiki](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/7.-OpenRE-Tutorial)     
+ - 详细内容可以参考[OpenRE源码](https://github.com/HANDS-FREE/OpenRE)和[OpenRE wiki](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/6.-OpenRE-Tutorial)     
        
 ### 二 多模态平台设计
 我们的开发项目和开发平台是多样化的，比如二轮，三轮的移动机器人，四旋翼固定翼飞行器等，重复造轮子的问题是机器人学者和创业者最常遇到的问题，好的系统是要求很好的泛性的，能够适应大部分平台，避免了重复劳动的弊端，这就要求我们的产品更加多元化。	在多模态机器人平台搭建方面，研究的主要内容是设计精良的机械和电路系统。机械系统包括各种模型的机器人躯体、机械臂、云台等。电路则包含控制系统，驱动电路，电源管理系统，硬件调试等方面。

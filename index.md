@@ -1,5 +1,6 @@
-# 开源机器人项目 HANDS FREE
+#  Hands Free One Page
 ---
+开源机器人项目 **HandsFrree**长期使用并且不断更新的页面，用于简单介绍HandsFree和索引到其它相关的资源
 
 ### 2017官方视频    
 

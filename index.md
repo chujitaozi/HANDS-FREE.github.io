@@ -2,6 +2,9 @@
 ---
 
 ### 2017官方视频    
+
+#### [HandsFree 官网](http://www.hands-free.org.cn/)
+
 <iframe frameborder="0" width="640" height="498" src="https://v.qq.com/iframe/player.html?vid=w0389v55en2&tiny=0&auto=0" allowfullscreen></iframe>
 
 ## 简介
@@ -13,12 +16,14 @@
 HANDS FREE 是一个面向机器人研究、开发的开源软硬件系统。她有完备与科学的框架,以优秀的嵌入式系统框架为核心,精良的电路、机械设计为支撑,帮您快速实现多种形态的机器人。本系统包含机器人导航,SLAM,计算机视觉等模块,并拥有自己上层软件和调试系统。她支持国外其他的开源项目,如 ROS, MPRT, PIXHAWK 等,这一切都为您带来了无比的便捷和快乐!
 
 ## 资源索引
+* [HandsFree 官网](http://www.hands-free.org.cn/)
 * HandsFree [2017官方视频](https://v.qq.com/iframe/player.html?vid=w0389v55en2&tiny=0&auto=0)    
-* HandsFree 社区交流群: 521037187 (Hands Free Community)		
-* HandsFree 西北工业大学交流群: 132438957 (仅限西工大学生加入)    
+* 社区交流群: 521037187 (Hands Free Community)		
+* 邮箱： hands_free@126.com
+* 西北工业大学交流群: 132438957 (仅限西工大学生加入)    
 * 最新最全资料请看: [HandsFree百度云](https://pan.baidu.com/s/1nuSvs7Z#list)   
 * 最新代码请看: [HandsFree Github](https://github.com/HANDS-FREE)   
-* 需要购买或者查看平台请看[淘宝店铺](https://shop145029875.taobao.com/?spm=a1z10.3-c.0.0.zpwB3d)    
+* 需要购买或者查看平台请看[淘宝店铺](https://shop145029875.taobao.com/?spm=a1z10.3-c.0.0.zpwB3d) 和 [代理店铺](https://shop424224383.taobao.com/?spm=a1z10.5-c.0.0.nZVXdW)(推荐)       
 * 关于购买的机器的入门教程，或者想系统学习HandsFree可以看[网页版教程](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki)    
 * OpenRE的教程 [OpenRE wiki](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/6.-OpenRE-Tutorial)    
 

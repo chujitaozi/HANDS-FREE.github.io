@@ -17,30 +17,30 @@
 HANDS FREE 是一个面向机器人研究、开发的开源软硬件系统。她有完备与科学的框架,以优秀的嵌入式系统框架为核心,精良的电路、机械设计为支撑,帮您快速实现多种形态的机器人。本系统包含机器人导航,SLAM,计算机视觉等模块,并拥有自己上层软件和调试系统。她支持国外其他的开源项目,如 ROS, MPRT, PIXHAWK 等,这一切都为您带来了无比的便捷和快乐!
 
 ## 资源索引
-* [HandsFree 官网](http://www.hands-free.org.cn/)
-* HandsFree [2017官方视频](https://v.qq.com/iframe/player.html?vid=w0389v55en2&tiny=0&auto=0)    
+* [HandsFree Wiki](https://hands-free.github.io/)    
+* [HandsFree Website](http://www.hands-free.org.cn/)    
+* [HandsFree 2017 成果展示](https://v.qq.com/iframe/player.html?vid=w0389v55en2&tiny=0&auto=0)    
 * 社区交流群: 521037187 (Hands Free Community)		
-* 邮箱： hands_free@126.com
+* 邮箱： hands_free@126.com    
 * 西北工业大学交流群: 132438957 (仅限西工大学生加入)    
 * 最新最全资料请看: [HandsFree百度云](https://pan.baidu.com/s/1nuSvs7Z#list)   
 * 最新代码请看: [HandsFree Github](https://github.com/HANDS-FREE)   
-* 需要购买或者查看平台请看[淘宝店铺](https://shop145029875.taobao.com/?spm=a1z10.3-c.0.0.zpwB3d) 和 [代理店铺](https://shop424224383.taobao.com/?spm=a1z10.5-c.0.0.nZVXdW)(推荐)       
-* 关于购买的机器的入门教程，或者想系统学习HandsFree可以看[网页版教程](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki)    
-* OpenRE的教程 [OpenRE wiki](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/6.-OpenRE-Tutorial)    
+* 需要购买或者查看平台请看[淘宝店铺](https://shop145029875.taobao.com/?spm=a1z10.3-c.0.0.zpwB3d)     
+* [HandsFree入门教程](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki)    
+* [OpenRE教程](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/6.-OpenRE-Tutorial)    
 
 ## 其他资源
 * 通过 [Quick Overview](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/1.1-Quick-Overview)全面了解HandsFree的工作。    
-* [RosClub](http://www.rosclub.cn/post-14.html)   
 * [西北工业大学布树辉教授个人博客](http://www.adv-ci.com/blog/source/hands-free/)    
-* [exbot](http://wiki.exbot.net/HandsFree)		
-
+* [RosClub](http://www.rosclub.cn/)  
+* [Exbot 易科实验室](http://blog.exbot.net/)   
 
 ## HANDS FREE 组成
 项目虽然看起来涉及很广，但目前主要任务大概有四个。      
 
 ### 一 OpenRE 库
 全称 Open Source Robot Embedded Library，也就是机器人嵌入式库。简单的说，其作用与国外知名的无人机开发架构 pixhawk 类似，只不过 pixhwak 主要是面向飞行器，而 OpenRE 则是面向多模态机器人的。
- - 详细内容可以参考[OpenRE源码](https://github.com/HANDS-FREE/OpenRE)和[OpenRE wiki](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki/6.-OpenRE-Tutorial)     
+ - 详细内容可以参考[OpenRE](https://github.com/HANDS-FREE/OpenRE)   
        
 ### 二 多模态平台设计
 我们的开发项目和开发平台是多样化的，比如二轮，三轮的移动机器人，四旋翼固定翼飞行器等，重复造轮子的问题是机器人学者和创业者最常遇到的问题，好的系统是要求很好的泛性的，能够适应大部分平台，避免了重复劳动的弊端，这就要求我们的产品更加多元化。	在多模态机器人平台搭建方面，研究的主要内容是设计精良的机械和电路系统。机械系统包括各种模型的机器人躯体、机械臂、云台等。电路则包含控制系统，驱动电路，电源管理系统，硬件调试等方面。
@@ -95,14 +95,12 @@ Hands Free 人员由 **Hands Free Team** ， **Hands FreeCommunity** 组成。
 
 **Hands FreeCommunity** ，指所有参与，使用该开源项目的伙伴构建的交流圈。任何人可以在遵守 Hands Free 的发布规则的前提下发布自己成果， 并可以申请Hands Free Team 的审核，通过后整合到官方版本中发布。
        
-目前 Hands Free Team 只是可数的几个人在维护，我们希望能有志同道合的人加入我们，一起学习交流。      
+我们希望能有志同道合的人加入我们，一起学习交流。    
 
-## HANDS FREE开源协议
-HANDS FREE的OPENRE和PIL库以及电路设计标准和机械标准遵循 BSD 3-Clause 许可证，使用者可自由使用到任何途径，也可以使用HANDS FREE的标准设计硬件并用于商业。    
+## HandsFree 开源协议
+HandsFree 的OPENRE和PIL库以及电路设计标准和机械标准遵循 BSD 3-Clause 许可证，使用者可自由使用到任何途径，也可以使用HandsFree的标准设计硬件并用于商业。    
                  
-HANDS FREE设计的硬件成品，比如每款平台的机械结构和控制器等电路板，仅属于开放资料，使用者只能学习或者少量生产，不能在未授权的情况下用于批量生产和商业行为，否则追究法律责任。              
+HandsFree 设计的硬件成品，比如每款平台的机械结构和控制器等电路板，仅属于开放资料，使用者只能学习或者少量生产，不能在未授权的情况下用于批量生产和商业行为，否则追究法律责任。     
  
-版权：该项目的版权HANDS FREE TEAM所有，项目中使用的其他开放源码，版权归其原创作者所有。         
+版权：该项目的版权HandsFree Team所有，项目中使用的其他开放源码，版权归其原创作者所有。      
  
-说明：任何一个开源控，都可以在不干扰不混淆官方版本的前提下发布自己成果，并可以申请Hands Free Team的审核，通过审核的可以整合到官方版本中发布。          
-

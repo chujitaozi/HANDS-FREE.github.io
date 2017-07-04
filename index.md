@@ -17,7 +17,7 @@
 HANDS FREE 是一个面向机器人研究、开发的开源软硬件系统。她有完备与科学的框架,以优秀的嵌入式系统框架为核心,精良的电路、机械设计为支撑,帮您快速实现多种形态的机器人。本系统包含机器人导航,SLAM,计算机视觉等模块,并拥有自己上层软件和调试系统。她支持国外其他的开源项目,如 ROS, MPRT, PIXHAWK 等,这一切都为您带来了无比的便捷和快乐!
 
 ## 资源索引
-* [HandsFree Wiki](https://hands-free.github.io/)    
+* [HandsFree Wiki](https://github.com/HANDS-FREE/HANDS-FREE.github.io/wiki)    
 * [HandsFree Website](http://www.hands-free.org.cn/)    
 * [HandsFree 2017 成果展示](https://v.qq.com/iframe/player.html?vid=w0389v55en2&tiny=0&auto=0)    
 * 社区交流群: 521037187 (Hands Free Community)		

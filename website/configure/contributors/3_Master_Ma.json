@@ -1,0 +1,12 @@
+{
+    "Name": "马文科", 
+    "Image": "/image/contributors_picture/mawenke.png",
+    "学位/职业": "西北工业大学自动化学院研究生", 
+    "研究方向": {
+        "1": "机器人控制", 
+        "2": "VSLAM", 
+        "3": "HandsFree"
+    }, 
+    "GitHub": "https://github.com/mawenke", 
+    "个人网站": "https://github.com/mawenke/mawenke.github.io"
+}

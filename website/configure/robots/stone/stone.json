@@ -1,0 +1,25 @@
+{
+ "name": "Stone",
+ "images": [
+  "/image/robots/stone/s_1.jpg",
+  "/image/robots/stone/s_2.jpg",
+  "/image/robots/stone/s_3.jpg",
+  "/image/robots/stone/s_4.jpg"
+ ],
+ "introduction_file": "../configure/robots/stone/stone_introduction",
+ "gif": [
+  "/image/robots/stone/Stone_V2.0_assemble_medium.gif",
+  "/image/robots/stone/Stone_V2.0_turn_around_good.gif"
+ ],
+ "gif_introduction": "../configure/robots/stone/gif_introduction",
+ "details": {
+  "空&nbsp;&nbsp;&nbsp;重": "<3kg",
+  "直&nbsp;&nbsp;&nbsp;径": "36cm",
+  "高&nbsp;&nbsp;&nbsp;度": "32.2cm(无云台)125.2cm",
+  "最大速度": "80cm/s",
+  "最大承载能力": "6kg",
+  "支持的控制器": "PC 树莓派 pcduino TX1 TK1",
+  "支持的传感器": "RplidarA1/A2 Hokuyo URG-04L/UTM-30Lx Xtion Kinect1/2",
+  "支持的设备": "HandFree arm Dobot机械臂 HF云台 双目摄像头 单目高清摄像头"
+ }
+}

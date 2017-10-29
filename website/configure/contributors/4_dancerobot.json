@@ -1,0 +1,13 @@
+{
+    "Name": "舞蹈机器人基地", 
+    "Image": "/image/contributors_picture/dancerobot.jpg",
+    "研究方向": {
+        "1": "舞蹈机器人", 
+        "2": "救援机器人", 
+        "3": "家政机器人", 
+        "4": "篮球机器人"
+    }, 
+    "家政GitHub": "https://github.com/xm-project", 
+    "救援GitHub": "https://github.com/team-explorer-rescue-robot", 
+    "篮球Github": "https://github.com/nwpu-basketball-robot"
+}

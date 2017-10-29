@@ -1,0 +1,515 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    padding: 0px auto;
+}
+
+.clear{
+    clear: both;
+}
+
+.mg-md{
+    margin: 10px auto;
+}
+
+
+
+table.border-less td{
+    border-top: 0px !important;
+}
+
+
+.header{
+    width: 100%;
+    height: 250px;
+    position: relative;
+}
+
+.content{
+    width: 80%;
+    display: block;
+    margin:0px auto;
+    overflow: hidden;
+}
+
+
+a.go-top{
+    position: fixed;
+    right: 4px;
+    bottom: 80px;
+    opacity: 0.5;
+}
+
+a.go-top:hover{
+    opacity: 0.8;
+}
+
+
+.github{
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.git-btn{
+    margin-top: 0px;
+    display: inline-block;
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none;
+}
+
+.git-btn li{
+    display: inline-block;
+    padding: 5px 8px;
+    line-height: 1;
+}
+
+.navbar-font{
+    font-weight: bold;
+}
+
+div ul.nav li.other_item{
+    margin-left: 30px;
+}
+
+
+@media screen and (min-width:768px)  {
+    .about-handsfree .youku-video {
+        display: block;
+        float: right;
+        padding-left: 10px;
+        width: 50%;
+    }
+    ul.nav li.dropdown:hover > ul.dropdown-menu {
+            display: block;
+    }
+    .dropdown-menu > li > a:hover {
+        background-color: #707070 ;
+        background-image: none;
+    }
+
+    a.circle-arrow-up{
+        visibility: hidden;
+        display: block;
+        -webkit-background-size:80%;
+        background-size:80%;
+        background-image: url("../image/logo/up.png");
+        background-repeat: no-repeat;
+        height: 40px;
+        width: 40px;
+    }
+
+}
+
+@media screen and (max-width: 767px) {
+    .ml-mobile{
+        display: block;
+    }
+    .pc{
+        display: none;
+    }
+    .about-handsfree .youku-video {
+        display: block;
+        float: right;
+        padding-left: 15px;
+    }
+
+    .col-md-6{
+        margin-top: 10px;
+    }
+
+    a.circle-arrow-up{
+        visibility: hidden;
+        display: block;
+        -webkit-background-size:60%;
+        background-size:60%;
+        background-image: url("../image/logo/up.png");
+        background-repeat: no-repeat;
+        height: 32px;
+        width: 32px;
+    }
+
+}
+
+.about-handsfree{
+    display: block;
+    overflow: hidden;
+}
+
+.about-handsfree p{
+    font-size:15px;
+    font-weight: 500;
+}
+
+
+
+.feature-history{
+    margin-top: 10px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.feature-history .history img{
+    margin-top: 20px;
+    width: 100%;
+    height: 100%;
+}
+
+.openSource{
+    margin-top: 60px;
+    width:100%;
+}
+
+.openSource img{
+    width: 160px;
+    height:160px;
+}
+
+.footer{
+    clear: both;
+    margin-top:10px;
+    width:100%;
+    color:whitesmoke;
+}
+
+.footer .ml-mobile hr{
+    margin-top: 5px;
+    margin-bottom: 2px;
+    height: 2px;
+    border:0px;
+    background-color: dimgrey;
+}
+
+.footer .top{
+    padding: 40px 50px;
+    background-color: #101010;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.footer .email{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.footer .top .logo{
+    width: 150px;
+    height: 170px;
+}
+
+
+.footer .top li{
+    float: left;
+    list-style: none;
+    margin-right: 10%;
+}
+
+.footer .top img.qrcode{
+    width: 200px;
+    height: 200px;
+}
+
+.footer .top a{
+    width: 50px;
+    height: 50px;
+    margin: 2px 10px 4px 0px;
+}
+
+.footer .top img{
+    width: 46px;
+    height: 46px;
+}
+
+.footer .bottom{
+    text-align: center;
+    padding-top: 5px;
+    background-color: #333333;
+}
+
+.footer .bottom p{
+    font-size: 12px;
+}
+
+.btn h4:after {
+    font-family: "Glyphicons Halflings";
+    content: "\e114";
+    float: right;
+}
+/* Icon when the collapsible content is hidden */
+.btn.collapsed h4:after {
+    content: "\e080";
+}
+
+/*--------over for index html-----------------------*/
+
+
+.contributors .people-name{
+    display: block;
+    color: whitesmoke;
+    background-color: cornflowerblue;
+    font-size: 15px;
+    width: 100%;
+}
+
+.contributors hr{
+    border: 0px;
+    height: 2px;
+    background-color: dimgrey;
+    margin-bottom: -30px;
+}
+
+.contributors .people{
+    padding-right: 10px;
+    margin-top:40px;
+}
+
+.contributors .people-image img{
+    height: 160px;
+    width: 130px;
+}
+
+.contributors .people-detail{
+
+}
+
+
+
+/*-------------over for contributor--------------------*/
+
+
+.robot-introduction{
+    width: 85%;
+    margin: 18px auto;
+}
+
+.robot-introduction .introduction-text p{
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: dimgrey;
+    font-size:14px;
+}
+
+.introduction-detail{
+    margin-top: 50px;
+}
+
+.robot-introduction .introduction-detail p{
+    font-size: 12px;
+}
+
+.introduction-detail hr{
+    margin-top:0px;
+    margin-bottom: 5px;
+    border-top:2px;
+    border-color: darkgrey;
+    border-style: dotted;
+}
+
+.introduction-detail .detail-key{
+    color: #999999;
+    font-weight: 700;
+}
+
+.introduction-detail .detail-value{
+    color: black;
+}
+
+
+.carousel-fade .carousel-inner { background: #000; }
+.carousel-fade .carousel-control { z-index: 2; }
+.carousel-fade .item {
+    opacity: 0;
+    -webkit-transition-property: opacity;
+    -moz-transition-property: opacity;
+    -o-transition-property: opacity;
+    transition-property: opacity;
+}
+
+.carousel-fade .next.left,
+.carousel-fade .prev.right,
+.carousel-fade .item.active { opacity: 1; }
+
+.carousel-fade .active.left,
+.carousel-fade .active.right {
+    left: 0;
+    opacity: 0;
+    z-index: 1;
+}
+
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
+.carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right{
+    color:darkgrey ;
+    position: absolute;
+    top: 75%; /* pushes the icon in the middle of the height */
+    display: inline-block;
+}
+
+.introduction-machine{
+
+}
+
+.gif-machine{
+    padding: 0px auto;
+    margin-top: 20px;
+}
+
+.gif-introduction{
+    margin-top:30px;
+}
+
+
+
+
+
+.carousel-inner{
+    height: 320px;
+    width: 75%;
+    margin: auto;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 100%;
+    height: 320px;
+    margin: auto;
+}
+
+
+@media screen and (min-width:768px) {
+    .ml-mobile{
+        display: none;
+    }
+    .pc{
+        display: block;
+    }
+    .buy-join a:hover{
+        background-color: white;
+        color:#5bc0de;
+        text-decoration: none;
+    }
+}
+
+.buy-join{
+    margin-top: 40px;
+}
+
+.buy-join a{
+    -moz-transition: all 0.5s ease-in;
+    -o-transition: all 0.5s ease-in;
+    -webkit-transition: all 0.5s ease-in;
+    background-color: #5bc0de;
+    color:white;
+    text-decoration: none;
+}
+
+.gif-introduction p{
+    font-size: 15px;
+    letter-spacing: 0.8px;
+    font-family: serif;
+    font-weight: 600;
+}
+
+/*-------------over for product--------------------*/
+
+
+.function_introduction{
+
+}
+
+.function_introduction .introduce-image{
+    width: 300px;
+    height: 200px;
+    float: left;
+    display: block;
+    margin-right:25px;
+}
+
+.function_introduction hr{
+    clear: both;
+    margin-top: 20px;
+    height: 2px;
+    border: 0px;
+    background-color: darkgrey;
+}
+
+.users{
+    overflow: hidden;
+    background-color: lightgrey;
+    padding-top: 30px ;
+    margin-top: 20px;
+    min-height: 350px;
+}
+
+
+
+.users hr{
+    width: 95%;
+    height: 2px;
+    border: 0px;
+    background-color: grey;
+}
+
+.users li{
+    list-style: none;
+}
+
+.users h4{
+    margin-top:30px;
+    color:darkgrey;
+}
+
+.users .remark{
+    padding-left: 5px;
+    padding-right: 30px;
+}
+
+.users-picture li{
+    float: left;
+    list-style: none;
+    text-align: center;
+    margin-left: 25px;
+    overflow: hidden;
+}
+
+.users-picture img{
+    width: 60px;
+    height:60px;
+}
+
+.users-picture li{
+    opacity: 0.4;
+}
+
+.users-picture li.active{
+    opacity: 1.0;
+}
+
+.users-picture li:hover{
+    opacity: 1.0;
+}
+
+.users-name{
+    margin-left: 30px;
+}
+
+.users-name li{
+    display: none;
+}
+
+.users-name li.active{
+    display: list-item;
+}
+
+.users-name h2 span{
+    font-size: 14px;
+    color: #3c3c3c;
+    margin-left: 30px;
+}
+
+

@@ -1,0 +1,13 @@
+{
+    "Name": "布树辉教授", 
+    "Image": "/image/contributors_picture/Prof_Bu.jpg",
+    "学位/职业": "西北工业大学航空学院教授", 
+    "研究方向": {
+        "1": "无人机智能导航与控制", 
+        "2": "模式识别与故障诊断", 
+        "3": "信号与图像处理"
+    }, 
+    "Email": "bushuhui@nwpu.edu.cn", 
+    "GitHub": "https://github.com/bushuhui", 
+    "个人网站": "http://www.adv-ci.com/blog/"
+}

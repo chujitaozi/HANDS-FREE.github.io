@@ -1,0 +1,4 @@
+基于深度强化学习的多机器人去中心化避障实验 by <a target="_blank" href="http://www.dorabot.com/">Dorabot</a>
+去中心化的多机器人避障（decentralized multi-robot collision avoidance）,目标在与多机器人系统在没有中心服务器规划，甚至机器人间没有通讯的情况下，也能拥有高效，无震荡（Oscillation-Free）机器人避障行为。可以类比在拥挤的街道上行走的人们。基于handsfree 我们构建了完善的实验平台，在我们的实验中，handsfree极大减少了底层开发的难度，加速了我们实物机器人实验进程。
+
+

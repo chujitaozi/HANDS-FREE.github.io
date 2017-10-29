@@ -1,0 +1,10 @@
+{
+    "Name": "HandsFree团队", 
+    "Image": "/image/contributors_picture/HandsFree.png",
+    "研究方向": {
+        "1": "OpenRE嵌入式机器人系统", 
+        "2": "多模态平台设计", 
+        "3": "系统搭建"
+    }, 
+    "GitHub": "https://github.com/HANDS-FREE"
+}
